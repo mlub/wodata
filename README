@@ -1,0 +1,6 @@
+-Create toolset to analyze CrossFit Games leaderboard data.
+
+-Create web app that allows a coach define a WOD and create an embeddable
+ UI that his clients can use to enter their score. Store athlete scores
+ in a database with interface/tools allowing coaches/athletes to track 
+ progress, compare athletes, make projections, etc.
